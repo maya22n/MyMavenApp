@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
   <build>
    <plugins>
      <plugin>
@@ -29,4 +30,5 @@
  </plugins>
     <finalName>MyMavenApp</finalName>
   </build>
+  
 </project>
